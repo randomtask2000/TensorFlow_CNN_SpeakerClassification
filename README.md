@@ -18,6 +18,7 @@ Libraries needed for this project:
 - skimage
 - sklearn
 - tensorflow
+- time
 
 # Data used:
 All data was created using files provided by LibriVox. All files used from LibriVox are in the public domain for free use.
