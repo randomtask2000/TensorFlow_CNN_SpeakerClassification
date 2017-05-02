@@ -48,3 +48,15 @@ The files downloaded are .mp3 files, which were first converted to .wav using VL
 The reduced 3-minute audio clips can be found in data.zip.
 
 The spectrograms (images) used in the final two networks can be found in plt-spectrograms.zip and spectrograms.zip.
+
+The trained neural networks are included as well as the following files:
+
+- train_model_01.ckpt.data-00000-of-00001
+- train_model_01.ckpt.index
+- train_model_01.ckpt.meta
+- train_model_02.ckpt.data-00000-of-00001
+- train_model_02.ckpt.index
+- train_model_02.ckpt.meta
+- train_model_03.ckpt.data-00000-of-00001
+- train_model_03.ckpt.index
+- train_model_03.ckpt.meta
