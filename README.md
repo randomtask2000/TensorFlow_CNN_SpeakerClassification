@@ -20,7 +20,7 @@ Libraries needed for this project:
 - tensorflow
 - time
 
-# Data used:
+# Data used
 All data was created using files provided by LibriVox. All files used from LibriVox are in the public domain for free use.
 
 Carl Manchester: https://librivox.org/the-911-commission-report-by-the-911-commission/
