@@ -1,0 +1,41 @@
+All audio files provided by LibriVox. All files in the public domain for free use.
+
+M voice_01_carl_manchester
+audio provided by LibriVox
+retrieved from https://librivox.org/the-911-commission-report-by-the-911-commission/
+
+M voice_02_sam_stinson
+audio provided by LibriVox
+retrieved from https://librivox.org/the-911-commission-report-by-the-911-commission/
+
+M voice_03_bill_boerst
+audio provided by LibriVox
+retrieved from https://librivox.org/abc-of-vegetable-gardening-by-eben-eugene-rexford/
+
+F voice_04_kandice_stehlik
+audio provided by LibriVox
+retrieved from https://librivox.org/across-the-years-by-eleanor-h-porter/
+
+F voice_05_julia_niedermaier
+audio provided by LibriVox
+retrieved from https://librivox.org/across-the-years-by-eleanor-h-porter/
+
+F voice_06_inah_derby
+audio provided by LibriVox
+retrieved from https://librivox.org/across-the-years-by-eleanor-h-porter/
+
+F voice_07_gabriela_cowan
+audio provided by LibriVox
+retrieved from https://librivox.org/across-the-years-by-eleanor-h-porter/
+
+F voice_08_tara_dow
+audio provided by LibriVox
+retrieved from https://librivox.org/across-the-years-by-eleanor-h-porter/
+
+M voice_09_don_jenkins
+audio provided by LibriVox
+retrieved from https://librivox.org/adventures-of-bindle-by-herbert-jenkins/
+
+M voice_10_john_lieder
+audio provided by LibriVox
+retrieved from https://librivox.org/the-adventures-of-buster-bear-by-thornton-w-burgess/
