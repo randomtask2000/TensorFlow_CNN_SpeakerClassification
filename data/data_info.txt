@@ -1,3 +1,5 @@
+To use the data in the python code, extract the data into the "data" folder.
+
 All audio files provided by LibriVox. All files in the public domain for free use.
 
 M voice_01_carl_manchester
