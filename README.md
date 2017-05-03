@@ -45,7 +45,7 @@ John Lieder: https://librivox.org/the-adventures-of-buster-bear-by-thornton-w-bu
 
 The files downloaded are .mp3 files, which were first converted to .wav using VLC Media Player. The remaining preprocessing was done in Python.
 
-The reduced 3-minute audio clips can be found in data.zip.
+The reduced 3-minute audio clips can be found in the data folder. Each audio file has been zipped, so to use them in the Python code, unzip each file and place them in the data directory.
 
 The spectrograms (images) used in the final two networks can be found in plt-spectrograms.zip and spectrograms.zip.
 
