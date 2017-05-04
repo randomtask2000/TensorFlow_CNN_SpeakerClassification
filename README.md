@@ -49,6 +49,8 @@ The reduced 3-minute audio clips can be found in the data folder. Each audio fil
 
 The spectrograms (images) used in the final two networks can be found in plt-spectrograms.zip and spectrograms.zip.
 
+Unzip the folders in folder plt-spectrograms and folder spectrograms to use the images.
+
 The trained neural networks are included as well as the following files:
 
 - train_model_01.ckpt.data-00000-of-00001
