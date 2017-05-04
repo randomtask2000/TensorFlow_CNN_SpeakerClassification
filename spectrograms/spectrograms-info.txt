@@ -1,0 +1,1 @@
+Unzip all of the folders into "spectrograms" so that all 2703 items are in this folder.
