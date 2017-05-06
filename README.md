@@ -21,7 +21,16 @@ Libraries needed for this project:
 - time
 
 # Data used
+
+![image](https://cloud.githubusercontent.com/assets/24555661/25774421/89eea6de-324b-11e7-9244-8c2be306542b.png)
+
+![image](https://cloud.githubusercontent.com/assets/24555661/25774427/a0de390e-324b-11e7-87fe-ffccb336b1b5.png)
+
+![image](https://cloud.githubusercontent.com/assets/24555661/25774552/5a8ec27c-324e-11e7-9b5a-8546259c9464.png)
+
 All data was created using files provided by LibriVox. All files used from LibriVox are in the public domain for free use.
+
+The datasets built for this project were made specifically for this project. The code to create the dataset can be found in preprocess.py. Below are the original audio files which are used to create the datasets. 3 minute versions of these files can be found in the data folder.
 
 Carl Manchester: https://librivox.org/the-911-commission-report-by-the-911-commission/
 
