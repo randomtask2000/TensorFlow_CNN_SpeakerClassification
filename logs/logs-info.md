@@ -1,0 +1,1 @@
+This folder includes the information for plotting the graphs in TensorBoard. All three graphs are in this folder. Graph 1 is the first fully connected network. Graph 2 is the first convolutional network on spectrograms. Graph 3 is the convolutional neural network on the custom stft images.
