@@ -1,5 +1,6 @@
 # Speaker Classification
 For a detailed writeup on this project, read the included pdf. 
+https://github.com/wmol4/Speaker-Classification/blob/master/LuckowCapstoneProject.pdf
 
 Using convolutional networks on spectrograms to classify who is talking.
 The goal of this project is to take 10 different voices and train a neural network to identify who is speaking from a set of new unlabeled voice samples. To measure the quality of the network is done by pure accuracy (correct attempts out of total attempts). The final attempt (convolutional networks on STFT images) achieves an accuracy of 0.939002.
